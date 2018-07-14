@@ -1,0 +1,9 @@
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\bin\Debug\Base de datos.exe
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\bin\Debug\Base de datos.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\obj\Debug\Base de datos.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\obj\Debug\Base_de_datos.Form1.resources
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\obj\Debug\Base_de_datos.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\obj\Debug\Base de datos.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\obj\Debug\Base de datos.exe
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\obj\Debug\Base de datos.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Base de datos\Base de datos\obj\Debug\Base_de_datos.Form2.resources
